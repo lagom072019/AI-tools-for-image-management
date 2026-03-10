@@ -1,4 +1,4 @@
-#AI tools for image management
+# AI tools for image management
 
 This project aims to develop image processing software integrating artificial intelligence technology, focusing particularly on the implementation of basic functions such as image classification, similar image filtering, and image search. Building upon this foundation, the project also expands upon these with unique features, such as garbage classification, license plate recognition, image compression, and video compression. These innovative features not only make this project stand out among similar products but also further broaden its application scenarios.
 
